@@ -1,0 +1,42 @@
+==26294== Memcheck, a memory error detector
+==26294== Copyright (C) 2002-2013, and GNU GPL'd, by Julian Seward et al.
+==26294== Using Valgrind-3.9.0 and LibVEX; rerun with -h for copyright info
+==26294== Command: /home/zmryyan/quash/quash/quash
+==26294== 
+==26443== 
+==26443== HEAP SUMMARY:
+==26443==     in use at exit: 0 bytes in 0 blocks
+==26443==   total heap usage: 15 allocs, 15 frees, 22,946 bytes allocated
+==26443== 
+==26443== All heap blocks were freed -- no leaks are possible
+==26443== 
+==26443== For counts of detected and suppressed errors, rerun with: -v
+==26443== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+==26294== 
+==26294== HEAP SUMMARY:
+==26294==     in use at exit: 0 bytes in 0 blocks
+==26294==   total heap usage: 29 allocs, 29 frees, 30,690 bytes allocated
+==26294== 
+==26294== All heap blocks were freed -- no leaks are possible
+==26294== 
+==26294== For counts of detected and suppressed errors, rerun with: -v
+==26294== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+ERROR: Failed to execute program: Permission denied
+==26451== 
+==26451== HEAP SUMMARY:
+==26451==     in use at exit: 0 bytes in 0 blocks
+==26451==   total heap usage: 22 allocs, 22 frees, 26,818 bytes allocated
+==26451== 
+==26451== All heap blocks were freed -- no leaks are possible
+==26451== 
+==26451== For counts of detected and suppressed errors, rerun with: -v
+==26451== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+==26432== 
+==26432== HEAP SUMMARY:
+==26432==     in use at exit: 0 bytes in 0 blocks
+==26432==   total heap usage: 8 allocs, 8 frees, 19,074 bytes allocated
+==26432== 
+==26432== All heap blocks were freed -- no leaks are possible
+==26432== 
+==26432== For counts of detected and suppressed errors, rerun with: -v
+==26432== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)

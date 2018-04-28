@@ -1,0 +1,2 @@
+dir3/dir3-1/lorem_ipsum.txt
+lorem_ipsum.txt

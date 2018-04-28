@@ -1,0 +1,55 @@
+==18763== Memcheck, a memory error detector
+==18763== Copyright (C) 2002-2013, and GNU GPL'd, by Julian Seward et al.
+==18763== Using Valgrind-3.9.0 and LibVEX; rerun with -h for copyright info
+==18763== Command: /home/zmryyan/quash/quash/quash
+==18763== 
+==18808== 
+==18808== HEAP SUMMARY:
+==18808==     in use at exit: 0 bytes in 0 blocks
+==18808==   total heap usage: 22 allocs, 22 frees, 27,682 bytes allocated
+==18808== 
+==18808== All heap blocks were freed -- no leaks are possible
+==18808== 
+==18808== For counts of detected and suppressed errors, rerun with: -v
+==18808== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+==18805== 
+==18805== HEAP SUMMARY:
+==18805==     in use at exit: 568 bytes in 1 blocks
+==18805==   total heap usage: 13 allocs, 12 frees, 21,042 bytes allocated
+==18805== 
+==18805== LEAK SUMMARY:
+==18805==    definitely lost: 0 bytes in 0 blocks
+==18805==    indirectly lost: 0 bytes in 0 blocks
+==18805==      possibly lost: 0 bytes in 0 blocks
+==18805==    still reachable: 568 bytes in 1 blocks
+==18805==         suppressed: 0 bytes in 0 blocks
+==18805== Reachable blocks (those to which a pointer was found) are not shown.
+==18805== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==18805== 
+==18805== For counts of detected and suppressed errors, rerun with: -v
+==18805== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+==18802== 
+==18802== HEAP SUMMARY:
+==18802==     in use at exit: 0 bytes in 0 blocks
+==18802==   total heap usage: 9 allocs, 9 frees, 19,130 bytes allocated
+==18802== 
+==18802== All heap blocks were freed -- no leaks are possible
+==18802== 
+==18802== For counts of detected and suppressed errors, rerun with: -v
+==18802== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+==18810== 
+==18810== HEAP SUMMARY:
+==18810==     in use at exit: 568 bytes in 1 blocks
+==18810==   total heap usage: 26 allocs, 25 frees, 29,594 bytes allocated
+==18810== 
+==18810== LEAK SUMMARY:
+==18810==    definitely lost: 0 bytes in 0 blocks
+==18810==    indirectly lost: 0 bytes in 0 blocks
+==18810==      possibly lost: 0 bytes in 0 blocks
+==18810==    still reachable: 568 bytes in 1 blocks
+==18810==         suppressed: 0 bytes in 0 blocks
+==18810== Reachable blocks (those to which a pointer was found) are not shown.
+==18810== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==18810== 
+==18810== For counts of detected and suppressed errors, rerun with: -v
+==18810== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)

@@ -1,0 +1,5 @@
+1,2c1
+< 0a1
+< > TEST FILE 1
+---
+> TEST FILE 1
